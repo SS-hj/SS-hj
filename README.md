@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=300&section=header&text=HajeongLee&fontSize=90&animation=twinkling)
 
-<!--
-**SS-hj/SS-hj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi👋 I'm Hajeong!
+My major is Big Data Engineering. <br/>
+I'm interested in Computer Vision, Speech Recognition and Recommender system. 👀   
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✒️ **Languages** <br/>
+
+![Python Badge](http://img.shields.io/badge/Python%20-3766AB?style=flat-square&logo=Python&logoColor=white) ![R Badge](http://img.shields.io/badge/R%20-6495ED?style=flat-square&logo=R) ![Java Badge](http://img.shields.io/badge/Java%20-007396?style=flat-square&logo=Java) ![MySQL Badge](http://img.shields.io/badge/MySQL%20-E6B91E?style=flat-square&logo=MySQL&logoColor=white)
+
+<br/>
+
+
+[![ss-hj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss-hj&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
