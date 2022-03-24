@@ -2,7 +2,7 @@
 
 Hi👋 I'm Hajeong!
 My major is Big Data Engineering. <br/>
-I'm interested in Computer Vision, Speech Recognition and Recommender system. 👀   
+I'm interested in Computer Vision. 👀   
 
 <br/>
 
