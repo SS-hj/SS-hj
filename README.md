@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=300&section=header&text=HajeongLee&fontSize=90&animation=twinkling)
 
 Hi👋 I'm Hajeong!
-My major is Big Data Engineering. <br/>
+My major is AIˑBig Data. <br/>
 I'm interested in Computer Vision. 👀   
 
 <br/>
